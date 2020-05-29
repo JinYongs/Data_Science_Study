@@ -31,6 +31,8 @@
 <hr>   
 
 ## ■ 참고자료 (계속 수정..ing)
+### ▶ 데이터 사이언서 들을 위한 글 (★★★★★)
+- https://github.com/Team-Neighborhood/I-want-to-study-Data-Science
 
 ### ▶ 데이터 제공 링크
 - https://www.kaggle.com/datasets // 캐글 데이터 홈페이지
