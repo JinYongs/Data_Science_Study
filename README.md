@@ -13,7 +13,10 @@
 - 이다영 [github](https://github.com/ldyoung4032)
 - 박미선 [github](https://github.com/songsunn)
 - 성아 [github](https://github.com/ssaahhh)
-- 이진용 [github](입력예정)
+- 이진용 [github](https://github.com/JinYongs)
+- 이다영 [github](https://github.com/day772)
+- 지우 [github](https://github.com/jjuyaa)
+- 
 - 서연 [github](https://github.com/Ndless-Analysis)
 <hr>   
 
@@ -28,6 +31,8 @@
 - 5.23 (토) 스터디 7주차
 - 5.30 (토) 스터디 8주차
 - 6.6 (토) 스터디 9주차
+- 6.13 (토) 스터디 10주차
+- 6.20 (토) 스터디 11주차
 - .... 진행중
 
 <hr>   
@@ -49,6 +54,12 @@
 - https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials/blob/master/kaggle/titanic.ipynb
 - https://github.com/dimitreOliveira/MachineLearning
 
+### ▶ 캐글
+- https://kaggle-kr.tistory.com/32 // 캐글 커널 이유한님 
+
+### ▶ 시계열 분석 모델링 흐름
+- https://dacon.io/competitions/official/140472/codeshare/419?page=1&dtype=recent&ptype=pub
+
 ### ▶ 포토폴리오 작성방법 블로그
 - https://databuzz-team.github.io/2018/12/23/how-to-build-a-data-science-portfolio/ 
  
@@ -56,10 +67,8 @@
 
 #### 일반 데이터 분석
 - https://bigdata.seoul.go.kr/noti/selectNoti.do?r_id=P430&bbs_seq=274&sch_type=&sch_text=&currentPage=1 // 서울시 빅데이터 캠퍼스 (서울시 그늘막 설치 적합장소 분석) 
-- https://drive.google.com/file/d/1jBSuT_Pn1B5qCdX7_RyRDfu-_sqAuaEO/view (2019 서울시 빅캠공모전 - 서울시공공자전거 효율적인 운영을 위한 빅데이터 분석)
 - https://bigdata.seoul.go.kr/noti/selectNoti.do?r_id=P430&bbs_seq=228&sch_type=&sch_text=&currentPage=1 // 서울시 빅데이터 캠퍼스 (저소득 어린이 급식카드 사용 분석)
 - https://drive.google.com/open?id=1emxINscsN3evlMwrUFeCsYU7MM30aD78 // 감성분석을 통한 키워드 기반 대한민국 정치흐름 파악
-- https://drive.google.com/open?id=1fCaJmwmXAJ674xTnEBn71tO1SNAhYIdI // DAT 기업협력 프로젝트
 
 #### 자연어 처리
 - https://drive.google.com/open?id=1eIKmzQbl8_zyaPhrBKcc3Ne8RgKgrgFZ // Langcon2019 - 카카오 한글 분석기 
