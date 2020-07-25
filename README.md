@@ -14,10 +14,8 @@
 - 박미선 [github](https://github.com/songsunn)
 - 성아 [github](https://github.com/ssaahhh)
 - 이진용 [github](https://github.com/JinYongs)
-- 이다영 [github](https://github.com/day772)
 - 지우 [github](https://github.com/jjuyaa)
-- 
-- 서연 [github](https://github.com/Ndless-Analysis)
+
 <hr>   
 
 ## ■ 활동기간
@@ -33,7 +31,9 @@
 - 6.6 (토) 스터디 9주차
 - 6.13 (토) 스터디 10주차
 - 6.20 (토) 스터디 11주차
-- .... 진행중
+- 7.08 (토) 스터디 12주차
+- 7.22 (토) 스터디 13주차
+.... 진행중
 
 <hr>   
 
