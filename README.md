@@ -33,8 +33,7 @@
 - 6.20 (토) 스터디 11주차
 - 7.11 (토) 스터디 12주차
 - 7.25 (토) 스터디 13주차
-- 8.8 (토) 스터디 14주차
-.... 진행중
+- 8.8 (토) 스터디 14주차 종료
 
 <hr>   
 
@@ -64,16 +63,9 @@
 ### ▶ 포토폴리오 작성방법 블로그
 - https://databuzz-team.github.io/2018/12/23/how-to-build-a-data-science-portfolio/ 
  
-### ▶ 데이터 분석, 포토폴리오 예시
-
-#### 일반 데이터 분석
+### ▶ 일반 데이터 분석 (주제 도출)
 - https://bigdata.seoul.go.kr/noti/selectNoti.do?r_id=P430&bbs_seq=274&sch_type=&sch_text=&currentPage=1 // 서울시 빅데이터 캠퍼스 (서울시 그늘막 설치 적합장소 분석) 
 - https://bigdata.seoul.go.kr/noti/selectNoti.do?r_id=P430&bbs_seq=228&sch_type=&sch_text=&currentPage=1 // 서울시 빅데이터 캠퍼스 (저소득 어린이 급식카드 사용 분석)
-- https://drive.google.com/open?id=1emxINscsN3evlMwrUFeCsYU7MM30aD78 // 감성분석을 통한 키워드 기반 대한민국 정치흐름 파악
-
-#### 자연어 처리
-- https://drive.google.com/open?id=1eIKmzQbl8_zyaPhrBKcc3Ne8RgKgrgFZ // Langcon2019 - 카카오 한글 분석기 
-- https://drive.google.com/open?id=1Mv3JtHuXw-loW_Kwort0KISrYLVJWcZP // Langcon2019 - 스마트스피커에서의 음악 재생 발화 오류 고정
 
 ### ▶ 기타
 - ** OKKY 글 중 '포토폴리오 vs 지원서 수행이력(경력기술서) 
